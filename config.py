@@ -1,0 +1,5 @@
+HOST = "127.0.0.1"
+USER = "root"
+PASSWORD = "Gouda@7295364810"
+PORT = "3306"
+DATABASE = "my_database"
